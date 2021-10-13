@@ -30,7 +30,7 @@
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me🤓 ....***
-<p align="center">
+<p align="right">
 <a href = "https://github.com/Hasintha-98/"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
 <a href = "https://www.linkedin.com/in/hasintha98/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Hasintha_98"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
