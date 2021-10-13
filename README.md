@@ -26,8 +26,7 @@
 ✔ I’m currently working on Cyber Security🔭<br>
 ✔ I’m currently learning about **Cybersecurity,Pentesting,Web Auditing**🥰<br>
 ✔ How to contact me: hasinthavishwajith98@gmail.com📫<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br>
+✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br><br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me🤓 ....***
 <p align="left">
