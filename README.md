@@ -27,7 +27,7 @@
 ✔ I’m currently learning about **Cybersecurity,Pentesting,Web Auditing**🥰<br>
 ✔ How to contact me: hasinthavishwajith98@gmail.com📫<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
+✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me🤓 ....***
 <p align="left">
@@ -36,10 +36,6 @@
 <a href = "https://twitter.com/Hasintha_98"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/hasintha.98/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/hasintha.vishwajith.33/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
-
 </p>
-
-### Thank you for visiting my profile 🤓 
-
 
 ------
