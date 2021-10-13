@@ -6,7 +6,7 @@
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Hasintha!;Welcome+to+my+profile🥰)](https://git.io/typing-svg)
-
+<p align="center">
 <em>
     Hello, I am Hasintha Vishwajith a <b>Third year</b> undergraduate from <a href="https://www.sliit.lk/"> <b>Sri Lanka Institute of Information Technology(SLIIT)</b>, Sri-Lanka</a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Cyber Scurity Undergraduate</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
